@@ -1,7 +1,7 @@
 # LucidTime
 ## A Pebble Watch App
 
-Are you dreaming? Are you dreaming right now? Learn to recognize when you are dreaming. Look away from your watch then look back. Notice anything strange? If you were dreaming, it's likely that the text won't make sense. It might appear as cryptic, meaningless glyphs. Often, when dreaming, digital displays will appear as gibberish when you really take a moment to look.
+Are you dreaming? Are you dreaming right now? Learn to recognize when you are dreaming. Look away from your watch then look back. Notice anything strange? If you are dreaming, it's likely that the text won't make sense. It might appear as cryptic, meaningless glyphs. Often, when dreaming, digital displays will appear as gibberish when you really take a moment to look.
 
 When you get in the habit of entertaining the possibility that you are dreaming at any given moment, the frequency of becoming lucid, i.e., recognizing that you are dreaming while you are dreaming, increases dramatically. 
 
