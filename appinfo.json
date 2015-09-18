@@ -42,6 +42,7 @@
     "versionCode": 1,
     "versionLabel": "0.2",
     "watchapp": {
+        "hiddenApp": false,
         "watchface": false
     }
 }

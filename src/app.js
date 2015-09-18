@@ -181,6 +181,6 @@ function realityCheck() {
     w.add(no);
     w.show();
     
-    Light.on('long');
+    Light.trigger();
     Vibe.vibrate('long');
 }
